@@ -18,5 +18,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-<!-- ![til](https://github.com/debobrototalukder/debobrototalukder/blob/main/banner.gif) -->
-[![](https://visitcount.itsvg.in/api?id=debobrototalukder&icon=0&color=0)](https://visitcount.itsvg.in)
+![til](https://github.com/debobrototalukder/debobrototalukder/blob/main/banner.gif)
