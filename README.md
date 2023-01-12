@@ -9,7 +9,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=debobrototalukder&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=debobrototalukder&theme=blueberry&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=debobrototalukder&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=debobrototalukder&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact&show_icons=true)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=debobrototalukder&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
