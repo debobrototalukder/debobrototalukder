@@ -1,5 +1,3 @@
-<img src="https://github.com/debobrototalukder/debobrototalukder/blob/main/output.gif" alt="Here is a little bit about me!">
-
 ⚔️ I'm currently working on improving my backend skills, mainly comfortable in rails & nodejs.<br>👩🏼‍🤝‍👨🏻 Would love to collaborate on any open source project that serves a purpose or is towards building a solution!
 
 
